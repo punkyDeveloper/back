@@ -1,0 +1,35 @@
+# Proyecto de Aplicación
+
+Este es un proyecto de aplicación web que permite gestionar tareas y usuarios. A continuación se detallan los pasos para instalar, ejecutar y configurar el proyecto en tu entorno local.
+
+## Enlace a la Aplicación Desplegada
+
+[Enlace a la aplicación desplegada](https://tu-aplicacion-en-la-nube.com)
+
+## Inicializar y Ejecutar el Proyecto Localmente
+
+### Paso 1: Clonar el repositorio
+
+Primero, necesitarás clonar el repositorio del proyecto a tu máquina local. Esto se hace utilizando Git.
+
+1. Abre una terminal en tu computadora.
+2. Navega a la carpeta en la que quieras guardar el proyecto (por ejemplo, `cd ~/Documentos/Proyectos/`).
+3. Clona el repositorio usando el siguiente comando (reemplaza `https://github.com/tu-usuario/tu-repositorio.git` con la URL del repositorio real):
+
+```bash
+git clone https://github.com/tu-usuario/tu-repositorio.git
+```
+
+# ejecutar el back en local 
+
+```bash
+npm run dev
+```
+# ejecutar las pruebas
+```bach
+npm run test
+```
+
+# url de swagger
+
+(http://localhost:4000/api-docs/)
